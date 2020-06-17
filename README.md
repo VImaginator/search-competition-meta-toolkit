@@ -1,1 +1,1 @@
-# search-competition-meta-toolkit\nOptimizing a Textual Search Engine w
+# search-competition-meta-toolkit\nOptimizing a Textual Search Engine with Me
