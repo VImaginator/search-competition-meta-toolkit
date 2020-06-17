@@ -1,1 +1,1 @@
-# search-competition-meta-toolkit\nOptimizing 
+# search-competition-meta-toolkit\nOptimizing a Text
