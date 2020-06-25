@@ -1,1 +1,1 @@
-# search-competition-meta-toolkit\nOptimizing a Textual Search Engine with MeTa data sciences toolkit competition.\n\nRanked 9th on the leaderb
+# search-competition-meta-toolkit\nOptimizing a Textual Search Engine with MeTa data sciences toolkit competition.\n\nRanked 9th on the leaderboard 
